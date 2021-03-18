@@ -10,7 +10,7 @@
 * 📱 I make apps for Android and iOS
 * 🎓 I'm a Computer Engineering student at uOttawa (graduating in April 2021)
 
-## 🔥 My Contribution Streak
+# 🔥 My Contribution Streak
 
 <!-- https://github.com/AkifManzoor124/github-readme-streak-stats -->
 <p align="center">
