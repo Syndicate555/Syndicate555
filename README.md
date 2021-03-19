@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkifManzoor124&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syndicate555&theme=dark"/>
   </a>
   <br/>
   🔥 Get streak stats for your profile 👉 <a href="http://git.io/streak-stats">git.io/streak-stats</a>
