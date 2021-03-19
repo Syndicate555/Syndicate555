@@ -12,6 +12,7 @@
 
 ## 🔥 My Contribution Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Syndicate555)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 <!-- https://github.com/Syndicate555/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
