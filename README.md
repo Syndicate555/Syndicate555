@@ -2,7 +2,7 @@
 
 <h3 align="center">Hey there, Saffat Aziz Here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
-# 📖 More About Me
+## 📖 More About Me
 
 * 💻 I'm a Fullstack Web Developer
 * 📷 I'm a Photographer
@@ -10,7 +10,7 @@
 * 📱 I make apps for Android and iOS
 * 🎓 I'm a Computer Engineering student at uOttawa (graduating in April 2021)
 
-# 🔥 My Contribution Streak
+## 🔥 My Contribution Streak
 
 <!-- https://github.com/AkifManzoor124/github-readme-streak-stats -->
 <p align="center">
