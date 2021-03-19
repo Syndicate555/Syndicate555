@@ -11,8 +11,7 @@
 * 🎓 I'm a Computer Engineering student at uOttawa (graduating in April 2021)
 
 ## 🔥 My Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/Syndicate555=DenverCoder1)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Syndicate555)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!-- https://github.com/Syndicate555/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
