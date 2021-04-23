@@ -98,7 +98,7 @@
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align ="left" alt="Akif's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syndicate555&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align ="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syndicate555&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
