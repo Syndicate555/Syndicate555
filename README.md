@@ -20,7 +20,7 @@
   
 </p>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/Syndicate555?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/Syndicate555?tab=repositories">my repos</a>! ⭐ Leave a star if you like what you see</h3>
 
 ## 👨‍💻 Languages and Tools:
 
