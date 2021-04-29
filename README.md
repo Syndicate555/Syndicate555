@@ -8,7 +8,7 @@
 * 📷 I'm a Photographer
 * 🎨 I'm a self-taught UI designer
 * 📱 I make apps for Android and iOS
-* 🎓 I'm a Computer Engineering student at uOttawa (graduating in April 2021)
+* 🎓 I'm a Computer Engineer (Recent uOttawa Grad)
 
 # 🔥 My Contribution Streak
 
