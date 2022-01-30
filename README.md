@@ -4,11 +4,11 @@
 
 ## 📖 More About Me
 
-* 💻 I'm a Fullstack Web Developer
-* 📷 I'm a Photographer
-* 🎨 I'm a self-taught UI designer
-* 📱 I make apps for Android and iOS
-* 🎓 I'm a Computer Engineer (Recent uOttawa Grad)
+* 💻 Fullstack Developer
+* 📷 Photographer
+* 🎨 UI designer
+* 📈 Stock Market nerd
+* 🎓 Computer Engineer (Recent uOttawa Grad)
 
 # 🔥 My Contribution Streak
 
