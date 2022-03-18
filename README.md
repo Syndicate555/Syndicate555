@@ -6,7 +6,7 @@
 
 * 💻 Fullstack Developer
 * 📷 Photographer
-* 🎨 UI designer
+* 🏗  Cloud Solutions Architect
 * 📈 Stock Market nerd
 * 🎓 Computer Engineer (Recent uOttawa Grad)
 
