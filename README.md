@@ -8,7 +8,7 @@
 * 📷 Photographer
 * 🏗  Cloud Solutions Architect
 * 📈 Stock Market nerd
-* 🎓 Computer Engineer (Recent uOttawa Grad)
+* 🎓 Computer Engineer
 
 # 🔥 My Contribution Streak
 
